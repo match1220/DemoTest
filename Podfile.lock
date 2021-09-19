@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SpinningIndicator (0.1.5)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - SpinningIndicator
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SpinningIndicator
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SpinningIndicator: 2f3a8b1f3aa23fc68b513231c9421872959df6df
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 67c9b30643807698fa6d9a6a021d7774bda9b6a0
+
+COCOAPODS: 1.10.0

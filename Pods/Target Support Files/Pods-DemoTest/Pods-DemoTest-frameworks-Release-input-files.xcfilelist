@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoTest/Pods-DemoTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SpinningIndicator/SpinningIndicator.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
